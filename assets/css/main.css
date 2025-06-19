@@ -147,7 +147,7 @@ h6 {
 .whatsapp-float {
   position: fixed;
   bottom: 20px;
-  right: 80px;
+  right: 30px;
   z-index: 999;
   background-color: #25d366;
   border-radius: 50%;
@@ -629,7 +629,7 @@ h6 {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 15px;
+  right: 1770px;
   bottom: 15px;
   z-index: 99999;
   background-color: var(--accent-color);
@@ -3079,31 +3079,31 @@ section,
 }
 
 .academics .programs-content .program-item.undergraduate .program-header .program-icon {
-  background-color: color-mix(in srgb, #4CAF50, transparent 88%);
-  color: #4CAF50;
+  background-color: color-mix(in srgb, #9e0505, transparent 88%);
+  color: #9e0505;
 }
 
 .academics .programs-content .program-item.undergraduate .program-header .program-type {
-  background-color: color-mix(in srgb, #4CAF50, transparent 85%);
-  color: #4CAF50;
+  background-color: color-mix(in srgb, #9e0505, transparent 85%);
+  color: #9e0505;
 }
 
 .academics .programs-content .program-item.undergraduate .program-footer .program-link {
-  color: #4CAF50;
+  color: #9e0505;
 }
 
 .academics .programs-content .program-item.graduate .program-header .program-icon {
-  background-color: color-mix(in srgb, #2196F3, transparent 88%);
-  color: #2196F3;
+  background-color: color-mix(in srgb, #0501ff, transparent 88%);
+  color: #0501ff;
 }
 
 .academics .programs-content .program-item.graduate .program-header .program-type {
-  background-color: color-mix(in srgb, #2196F3, transparent 85%);
-  color: #2196F3;
+  background-color: color-mix(in srgb, #0501ff, transparent 85%);
+  color: #0501ff;
 }
 
 .academics .programs-content .program-item.graduate .program-footer .program-link {
-  color: #2196F3;
+  color: #0501ff;
 }
 
 .academics .programs-content .program-item.doctoral .program-header .program-icon {
@@ -8269,3 +8269,4 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
